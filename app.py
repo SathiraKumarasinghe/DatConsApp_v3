@@ -2,7 +2,7 @@
 """
 
 
-@author: Sathira
+@author: Sathira kumarasinghe
 """
 
 import streamlit as st
