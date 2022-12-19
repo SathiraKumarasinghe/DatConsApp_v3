@@ -13,7 +13,7 @@ from pprint import pprint
 from zipfile import ZipFile
 import os
 from os.path import basename
-#from image_eda.augment import apply_augmentations
+from image_eda.augment import apply_augmentations
 
 def app_section_button(option1, option2, option3, option4):
 
